@@ -1,0 +1,23 @@
+Multithreading turned on: 1
+Using PCG
+Loading BAL dataset ../../bal_data/Trafalgar.txt
+numCameras = 4159 numPoints = 130027 numObservations = 572171
+done.
+Initializing ... done.
+Start to optimize
+iteration= 0	 chi2= 2782443.728421	 time= 3.81022	 cumTime= 3.81022	 edges= 572171	 schur= 1	 lambda= 4225407.988875	 levenbergIter= 1
+iteration= 1	 chi2= 2710224.311571	 time= 2.38377	 cumTime= 6.19399	 edges= 572171	 schur= 1	 lambda= 1408469.329625	 levenbergIter= 1
+iteration= 2	 chi2= 2611038.833458	 time= 2.92544	 cumTime= 9.11943	 edges= 572171	 schur= 1	 lambda= 469489.776542	 levenbergIter= 1
+iteration= 3	 chi2= 2497678.566962	 time= 3.52606	 cumTime= 12.6455	 edges= 572171	 schur= 1	 lambda= 156496.592181	 levenbergIter= 1
+iteration= 4	 chi2= 2387616.144356	 time= 5.3553	 cumTime= 18.0008	 edges= 572171	 schur= 1	 lambda= 52165.530727	 levenbergIter= 1
+iteration= 5	 chi2= 2291453.664561	 time= 7.58079	 cumTime= 25.5816	 edges= 572171	 schur= 1	 lambda= 17388.510242	 levenbergIter= 1
+iteration= 6	 chi2= 2213824.728346	 time= 9.16978	 cumTime= 34.7514	 edges= 572171	 schur= 1	 lambda= 5796.170081	 levenbergIter= 1
+iteration= 7	 chi2= 2153802.957871	 time= 11.1336	 cumTime= 45.8849	 edges= 572171	 schur= 1	 lambda= 1932.056694	 levenbergIter= 1
+iteration= 8	 chi2= 2104283.427714	 time= 19.2014	 cumTime= 65.0863	 edges= 572171	 schur= 1	 lambda= 644.018898	 levenbergIter= 1
+iteration= 9	 chi2= 2059105.575222	 time= 25.4975	 cumTime= 90.5839	 edges= 572171	 schur= 1	 lambda= 214.672966	 levenbergIter= 1
+iteration= 10	 chi2= 2017081.618980	 time= 32.5647	 cumTime= 123.149	 edges= 572171	 schur= 1	 lambda= 71.557655	 levenbergIter= 1
+iteration= 11	 chi2= 1981210.362946	 time= 42.9179	 cumTime= 166.066	 edges= 572171	 schur= 1	 lambda= 23.852552	 levenbergIter= 1
+iteration= 12	 chi2= 1950178.950727	 time= 57.5737	 cumTime= 223.64	 edges= 572171	 schur= 1	 lambda= 7.950851	 levenbergIter= 1
+iteration= 13	 chi2= 1925997.227080	 time= 80.0006	 cumTime= 303.641	 edges= 572171	 schur= 1	 lambda= 2.650284	 levenbergIter= 1
+iteration= 14	 chi2= 1912094.553079	 time= 101.916	 cumTime= 405.557	 edges= 572171	 schur= 1	 lambda= 1.766856	 levenbergIter= 1
+Mean Squared Error (Flattened Residual): 1.67091

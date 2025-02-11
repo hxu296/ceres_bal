@@ -1,0 +1,19 @@
+Multithreading turned on: 1
+Using PCG
+Loading BAL dataset ../../bal_data/Union_Square.txt
+numCameras = 166 numPoints = 3643 numObservations = 39651
+done.
+Initializing ... done.
+Start to optimize
+iteration= 0	 chi2= 118935.022639	 time= 0.0739165	 cumTime= 0.0739165	 edges= 39651	 schur= 1	 lambda= 289683.219139	 levenbergIter= 1
+iteration= 1	 chi2= 115864.905416	 time= 0.0378835	 cumTime= 0.1118	 edges= 39651	 schur= 1	 lambda= 96561.073046	 levenbergIter= 1
+iteration= 2	 chi2= 114628.388448	 time= 0.0420721	 cumTime= 0.153872	 edges= 39651	 schur= 1	 lambda= 32187.024349	 levenbergIter= 1
+iteration= 3	 chi2= 113535.106260	 time= 0.0476413	 cumTime= 0.201513	 edges= 39651	 schur= 1	 lambda= 10729.008116	 levenbergIter= 1
+iteration= 4	 chi2= 112110.818388	 time= 0.0550393	 cumTime= 0.256553	 edges= 39651	 schur= 1	 lambda= 3576.336039	 levenbergIter= 1
+iteration= 5	 chi2= 110281.431789	 time= 0.0690727	 cumTime= 0.325625	 edges= 39651	 schur= 1	 lambda= 1192.112013	 levenbergIter= 1
+iteration= 6	 chi2= 108157.645143	 time= 0.0771858	 cumTime= 0.402811	 edges= 39651	 schur= 1	 lambda= 397.370671	 levenbergIter= 1
+iteration= 7	 chi2= 106667.527618	 time= 0.147539	 cumTime= 0.550351	 edges= 39651	 schur= 1	 lambda= 529.827561	 levenbergIter= 2
+iteration= 8	 chi2= 105983.967161	 time= 0.0614029	 cumTime= 0.611753	 edges= 39651	 schur= 1	 lambda= 353.218374	 levenbergIter= 1
+iteration= 9	 chi2= 103835.330847	 time= 0.106529	 cumTime= 0.718282	 edges= 39651	 schur= 1	 lambda= 425.309135	 levenbergIter= 2
+iteration= 10	 chi2= 103771.436993	 time= 0.0623727	 cumTime= 0.780655	 edges= 39651	 schur= 1	 lambda= 283.539424	 levenbergIter= 1
+Mean Squared Error (Flattened Residual): 1.30856

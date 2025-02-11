@@ -1,0 +1,22 @@
+Multithreading turned on: 1
+Using PCG
+Loading BAL dataset ../../bal_data/Yorkminster.txt
+numCameras = 64 numPoints = 3432 numObservations = 16351
+done.
+Initializing ... done.
+Start to optimize
+iteration= 0	 chi2= 49439.572789	 time= 0.0192113	 cumTime= 0.0192113	 edges= 16351	 schur= 1	 lambda= 115711.194075	 levenbergIter= 1
+iteration= 1	 chi2= 45658.614506	 time= 0.00786216	 cumTime= 0.0270735	 edges= 16351	 schur= 1	 lambda= 38570.398025	 levenbergIter= 1
+iteration= 2	 chi2= 43598.842613	 time= 0.00852001	 cumTime= 0.0355935	 edges= 16351	 schur= 1	 lambda= 12856.799342	 levenbergIter= 1
+iteration= 3	 chi2= 42305.970982	 time= 0.00934922	 cumTime= 0.0449427	 edges= 16351	 schur= 1	 lambda= 4285.599781	 levenbergIter= 1
+iteration= 4	 chi2= 41267.705673	 time= 0.0109431	 cumTime= 0.0558858	 edges= 16351	 schur= 1	 lambda= 1428.533260	 levenbergIter= 1
+iteration= 5	 chi2= 40300.163986	 time= 0.0130386	 cumTime= 0.0689244	 edges= 16351	 schur= 1	 lambda= 476.177753	 levenbergIter= 1
+iteration= 6	 chi2= 39477.427192	 time= 0.0158643	 cumTime= 0.0847888	 edges= 16351	 schur= 1	 lambda= 158.725918	 levenbergIter= 1
+iteration= 7	 chi2= 38869.622211	 time= 0.0130197	 cumTime= 0.0978084	 edges= 16351	 schur= 1	 lambda= 52.908639	 levenbergIter= 1
+iteration= 8	 chi2= 38502.368273	 time= 0.0146367	 cumTime= 0.112445	 edges= 16351	 schur= 1	 lambda= 17.636213	 levenbergIter= 1
+iteration= 9	 chi2= 38289.158183	 time= 0.0170961	 cumTime= 0.129541	 edges= 16351	 schur= 1	 lambda= 5.878738	 levenbergIter= 1
+iteration= 10	 chi2= 38145.685213	 time= 0.0143422	 cumTime= 0.143883	 edges= 16351	 schur= 1	 lambda= 1.959579	 levenbergIter= 1
+iteration= 11	 chi2= 38062.025205	 time= 0.0147468	 cumTime= 0.15863	 edges= 16351	 schur= 1	 lambda= 1.306386	 levenbergIter= 1
+iteration= 12	 chi2= 37995.301651	 time= 0.0159443	 cumTime= 0.174575	 edges= 16351	 schur= 1	 lambda= 0.836036	 levenbergIter= 1
+iteration= 13	 chi2= 37975.366433	 time= 0.0166043	 cumTime= 0.191179	 edges= 16351	 schur= 1	 lambda= 0.557357	 levenbergIter= 1
+Mean Squared Error (Flattened Residual): 1.16126

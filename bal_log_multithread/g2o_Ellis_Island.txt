@@ -1,0 +1,20 @@
+Multithreading turned on: 1
+Using PCG
+Loading BAL dataset ../../bal_data/Ellis_Island.txt
+numCameras = 287 numPoints = 17565 numObservations = 64697
+done.
+Initializing ... done.
+Start to optimize
+iteration= 0	 chi2= 284555.855102	 time= 0.166908	 cumTime= 0.166908	 edges= 64697	 schur= 1	 lambda= 31843.748046	 levenbergIter= 1
+iteration= 1	 chi2= 268536.450279	 time= 0.0805668	 cumTime= 0.247475	 edges= 64697	 schur= 1	 lambda= 10614.582682	 levenbergIter= 1
+iteration= 2	 chi2= 262388.209906	 time= 0.113733	 cumTime= 0.361208	 edges= 64697	 schur= 1	 lambda= 3538.194227	 levenbergIter= 1
+iteration= 3	 chi2= 257591.701146	 time= 0.173144	 cumTime= 0.534351	 edges= 64697	 schur= 1	 lambda= 1179.398076	 levenbergIter= 1
+iteration= 4	 chi2= 251775.676533	 time= 0.238033	 cumTime= 0.772384	 edges= 64697	 schur= 1	 lambda= 393.132692	 levenbergIter= 1
+iteration= 5	 chi2= 245182.181454	 time= 0.251733	 cumTime= 1.02412	 edges= 64697	 schur= 1	 lambda= 131.044231	 levenbergIter= 1
+iteration= 6	 chi2= 238796.584570	 time= 0.307481	 cumTime= 1.3316	 edges= 64697	 schur= 1	 lambda= 43.681410	 levenbergIter= 1
+iteration= 7	 chi2= 233531.878935	 time= 0.385508	 cumTime= 1.71711	 edges= 64697	 schur= 1	 lambda= 14.560470	 levenbergIter= 1
+iteration= 8	 chi2= 229990.971064	 time= 0.447507	 cumTime= 2.16461	 edges= 64697	 schur= 1	 lambda= 4.853490	 levenbergIter= 1
+iteration= 9	 chi2= 228034.177097	 time= 0.548887	 cumTime= 2.7135	 edges= 64697	 schur= 1	 lambda= 1.617830	 levenbergIter= 1
+iteration= 10	 chi2= 226745.262091	 time= 0.40816	 cumTime= 3.12166	 edges= 64697	 schur= 1	 lambda= 0.539277	 levenbergIter= 1
+iteration= 11	 chi2= 226568.421655	 time= 0.555363	 cumTime= 3.67702	 edges= 64697	 schur= 1	 lambda= 0.359518	 levenbergIter= 1
+Mean Squared Error (Flattened Residual): 1.751
